@@ -1,0 +1,2 @@
+grid-auto-rows and grid-auto-column properties specify the height and width of rows that are automatically
+created when there is no explicit row definition and column definition respectively.
